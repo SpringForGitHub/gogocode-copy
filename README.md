@@ -44,7 +44,7 @@ const outCode = script.generate();
 ### Out
 
 ```javascript
-东半球const a = 1;
+东半球const a = 1; 发挥一下吧
 const b = 1;
 next()
 ```
